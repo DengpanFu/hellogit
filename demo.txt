@@ -1,1 +1,2 @@
 Create a branch is quick.
+Test for merge.
