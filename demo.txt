@@ -1,2 +1,2 @@
 Create a branch is quick.
-Another line.
+Create a new branch and fix conflict.
