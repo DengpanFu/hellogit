@@ -1,3 +1,2 @@
 Create a branch is quick.
-
-Test conflict line 3.
+Conflicts fixed
