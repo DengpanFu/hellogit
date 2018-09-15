@@ -1,2 +1,3 @@
 Create a branch is quick.
-Conflicts fixed
+Conflicts fixed.
+Do something on dev branch.
