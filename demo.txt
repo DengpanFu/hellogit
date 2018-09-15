@@ -1,2 +1,3 @@
 Create a branch is quick.
-Create a new branch and fix conflict.
+Test conflict in line2.
+
