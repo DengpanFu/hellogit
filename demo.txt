@@ -1,3 +1,4 @@
 Create a branch is quick.
-Conflicts fixed.
+Conflict fixed.
 Do something on dev branch.
+Test two machine submit.
