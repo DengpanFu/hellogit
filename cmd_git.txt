@@ -80,3 +80,7 @@ VII. Undo
     2. discard local changes in a specific file
         git checkout HEAD <file>
         git checkout -- <file>
+VIII. Remove remote directory
+    git rm --cache -r useless-directory
+    git commit -m "remove directory from remote repository"
+    git push
