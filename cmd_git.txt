@@ -51,6 +51,8 @@ V. Updata & Publish
         git remote show <remote>
     3. add new remote repository, named <remote>
         git remote add <short-name> <url>
+        (git remote add origin git@github.com:DengpanFU/hellogit.git
+        git push -u origin master)
     4. download all changes from <remote>, but don't integrate into HEAD
         git fetch <remote>
     5. download changes and directly merge/integrate into HEAD
