@@ -82,6 +82,8 @@ VII. Undo
     2. discard local changes in a specific file
         git checkout HEAD <file>
         git checkout -- <file>
+    3. discard local changes after pull from remote
+        git reset --hard origin/master
 VIII. Remove remote directory
     git rm --cache -r useless-directory
     git commit -m "remove directory from remote repository"
