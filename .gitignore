@@ -12,3 +12,4 @@ tags
 *.DS_Store
 *.pth
 *.caffemodel
+test/*
