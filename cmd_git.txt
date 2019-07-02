@@ -88,3 +88,5 @@ VIII. Remove remote directory
     git rm --cache -r useless-directory
     git commit -m "remove directory from remote repository"
     git push
+
+test
