@@ -47,7 +47,7 @@ hello git
     9. show tag
         git tag (show all tags)
         git tag <tag-name> (show a specific tag)
-## V. Updata & Publish
+## V. Update & Publish
     1. list all current configured remotes
         git remote -v
     2. show info about a remote
