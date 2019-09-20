@@ -13,7 +13,7 @@ hello git
     2. check changes to tracked files
         git diff
         2.1 compare difference between local file and remote file
-            git fetch origin master  # sync 
+            git fetch origin master
             git diff origin/master -- [file]
     3. add changes to the next commit
         git add <file> <...> (some changes) OR
