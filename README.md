@@ -4,9 +4,14 @@ hello git
 ## I. Create:
     1. Clone an existing repository
         git clone ssh://user@domain.com/repo.git
-        (ex: git clone git@github.com:Dengpanfu/hellogit.git)
+        (ex: git clone git@github.com:DengpanFu/hellogit.git)
     2 Create a new local repository:
         git init
+    3. Reset remote:
+        git remote rm origin
+        git remote add origin git@github.com:DengpanFu/hellogit.git
+        git branch -M main
+        git push -u origin main
 ## II. Local Changes:
     1. Check changed files in working directory
         git status
@@ -57,7 +62,7 @@ hello git
         git remote show <remote>
     3. add new remote repository, named <remote>
         git remote add <short-name> <url>
-        (git remote add origin git@github.com:DengpanFU/hellogit.git
+        (git remote add origin git@github.com:DengpanFu/hellogit.git
         git push -u origin master)
     4. download all changes from <remote>, but don't integrate into HEAD
         git fetch <remote>
